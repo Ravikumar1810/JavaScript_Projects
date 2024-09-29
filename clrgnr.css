@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    /* display: flex;
+    justify-content: center; */
+}
+div {
+    height: 200px;
+    width: 700px;
+    border: 1px solid black;
+    margin: auto;
+}
+
+/* button {
+    width: 95px;
+    height: 32px;
+    color: white;
+    background-color: black;
+} */
